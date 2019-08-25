@@ -6,14 +6,14 @@
    
 2. Review (阅读并点评至少一篇英文技术文章)
    
-   - [Teach Yourself Programming in Ten Years]([https://github.com/crazykx/backserver-study/blob/master/%E5%8F%B3%E8%80%B3%E9%97%BB%E9%A3%8E/ARTS/Review/001.Teach%20Yourself%20Programming%20in%20Ten%20Tears.md](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Review/001.Teach Yourself Programming in Ten Tears.md))
+   - [Teach Yourself Programming in Ten Years](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Review/001.Teach Yourself Programming in Ten Tears.md)
    
 3. Tip 学习至少一个技术技巧
    
-   - [SimpleDateFormat]([https://github.com/crazykx/backserver-study/tree/master/%E5%8F%B3%E8%80%B3%E9%97%BB%E9%A3%8E/ARTS/Tip/tip_week1/src/SimpleDateFormatTip](https://github.com/crazykx/backserver-study/tree/master/右耳闻风/ARTS/Tip/tip_week1/src/SimpleDateFormatTip))
+   - [SimpleDateFormat](https://github.com/crazykx/backserver-study/tree/master/右耳闻风/ARTS/Tip/tip_week1/src/SimpleDateFormatTip)
    
    - SimpleDateFormat 线程不安全, 如下:![image-20190825151925413](./TipImg/simpleDate.png)
-   - 解决:  [ThreadLocal]([https://github.com/crazykx/backserver-study/blob/master/%E5%8F%B3%E8%80%B3%E9%97%BB%E9%A3%8E/ARTS/Tip/tip_week1/src/SimpleDateFormatTip/ThreadLocalDateUtils.java](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Tip/tip_week1/src/SimpleDateFormatTip/ThreadLocalDateUtils.java))  [ Java8线程安全的日期时间 API]([https://github.com/crazykx/backserver-study/blob/master/%E5%8F%B3%E8%80%B3%E9%97%BB%E9%A3%8E/ARTS/Tip/tip_week1/src/SimpleDateFormatTip/Java8DateUtils.java](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Tip/tip_week1/src/SimpleDateFormatTip/Java8DateUtils.java))
+   - 解决:  [ThreadLocal](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Tip/tip_week1/src/SimpleDateFormatTip/ThreadLocalDateUtils.java)                 [ Java8线程安全的日期时间 API](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Tip/tip_week1/src/SimpleDateFormatTip/Java8DateUtils.java)
    
 4. Share 分享一篇有观点和思考的技术文章
 
