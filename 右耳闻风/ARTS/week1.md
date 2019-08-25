@@ -6,7 +6,7 @@
    
 2. Review (阅读并点评至少一篇英文技术文章)
    
-   - [Teach Yourself Programming in Ten Years](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Review/001.Teach Yourself Programming in Ten Tears.md)
+   - [Teach Yourself Programming in Ten Years](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Review/001.Teach%20Yourself%20Programming%20in%20Ten%20Tears.md)
    
 3. Tip 学习至少一个技术技巧
    
