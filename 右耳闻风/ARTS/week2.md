@@ -10,13 +10,11 @@
 
 2. **Review** (阅读并点评至少一篇英文技术文章)
 
-   - [Java Garbage Collection Basics](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Review/002.Java Garbage Collection Basics.md)
-
-     
+   - [Java Garbage Collection Basics](https://github.com/crazykx/backserver-study/blob/master/右耳闻风/ARTS/Review/002.Java%20Garbage%20Collection%20Basics.md)
 
 3. **Tip** (学习至少一个技术技巧)
 
-   - Git 
+   - [Git](https://github.com/crazykx/backserver-study/blob/master/日常笔记/2019-08-26.md)
 
      
 
